@@ -5156,11 +5156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\ModuloAPI\\TodoApi\\TodoApi.csproj",
-      "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\ModuloAPI\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\ModuloAPI\\ModuloAPI.csproj",
+      "projectName": "ModuloAPI",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\ModuloAPI\\ModuloAPI.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\ModuloAPI\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\ModuloAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
