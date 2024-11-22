@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace rafae.OneDrive.Área de Trabalho.workspace.ModuloAPI.Entities
+namespace ModuloAPI.Entities
 {
     public class Contato
     {
